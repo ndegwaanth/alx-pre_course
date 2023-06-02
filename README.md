@@ -1,1 +1,1 @@
-README file for 01x01-git in alx-pre_course ny anthony
+README file for 01x01-git in alx-pre_course by anthony ndegwa
